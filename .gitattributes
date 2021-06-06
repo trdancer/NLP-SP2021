@@ -1,0 +1,5 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.ann filter=lfs diff=lfs merge=lfs -text
+*.pos filter=lfs diff=lfs merge=lfs -text
+*.training.feature filter=lfs diff=lfs merge=lfs -text
+hw5/*.feature filter=lfs diff=lfs merge=lfs -text
